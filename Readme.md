@@ -1,5 +1,6 @@
 # Collectionneur-API
 Collectionneur service [Twirp](https://github.com/twitchtv/twirp) RPC API
+
 Current version: 18.5a0
 
 ### Why not REST/GRPC/JSON-RPC
