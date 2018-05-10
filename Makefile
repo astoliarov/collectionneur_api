@@ -1,2 +1,2 @@
 build:
-	cd src && $(MAKE)
+	cd api && $(MAKE)
