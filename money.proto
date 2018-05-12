@@ -18,6 +18,7 @@ message CategoryResolver {
 }
 
 message AddInfosResponse {
+    int32 countOfAdded = 1;
 }
 
 message AddInfosRequest {
